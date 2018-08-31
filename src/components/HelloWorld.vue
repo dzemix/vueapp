@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <v-btn color="success">some</v-btn>
+  </div>
 </template>
 
 <script>
